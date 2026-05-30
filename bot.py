@@ -21,7 +21,7 @@ from telegram.ext import (
 from telegram.error import TimedOut, NetworkError
 from telegram.request import HTTPXRequest
 
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "8715900599:AAGu1QB-Tm2bUQyEfz8JyyVQLE2L3awBogs")
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "8715900599:AAHq33TaNL1zZ8ODdV5CCO9nT8KyaqqWClI")
 ADMIN_ID = 7293981502
 ADMIN_URL = "t.me/yanzysaja"
 GRUP_LINK = "https://t.me/+XXXXXXXXXX"
